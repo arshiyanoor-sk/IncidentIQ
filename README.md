@@ -39,6 +39,11 @@ IncidentIQ automates incident investigation through a collaborative multi-agent 
 - Microsoft Foundry IQ
 - GitHub Copilot
 
+## Demo
+
+Watch the project demonstration here:
+https://youtu.be/1c-oWFiupGY?si=UdJaf6XmERMyUX1f
+
 ## 🏆 Hackathon Submission
 
 Microsoft Agents League Hackathon 2026
