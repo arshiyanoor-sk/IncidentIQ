@@ -1,16 +1,16 @@
 # IncidentIQ
 
-# Multi-Agent AI Copilot for Intelligent Root Cause Analysis
+## Multi-Agent AI Copilot for Intelligent Root Cause Analysis
 
 IncidentIQ is an AI-powered incident investigation platform that helps engineering teams rapidly identify production incident root causes using Multi-Agent Reasoning, Azure OpenAI GPT-4o, Azure AI Foundry, and Microsoft Foundry IQ.
 
 Built for the Microsoft Agents League Hackathon 2026.
 
-# Problem
+## Problem
 
 Production incidents generate evidence across logs, alerts, tickets, deployments, and documentation. Engineers spend valuable time manually correlating this information before identifying the root cause.
 
-# Solution
+## Solution
 
 IncidentIQ automates incident investigation through a collaborative multi-agent workflow.
 
@@ -20,7 +20,7 @@ IncidentIQ automates incident investigation through a collaborative multi-agent 
 - Identifies probable root causes
 - Generates remediation recommendations
 
-# Key Features
+## Key Features
 
 - Multi-Agent Investigation
 - Root Cause Analysis
@@ -29,7 +29,7 @@ IncidentIQ automates incident investigation through a collaborative multi-agent 
 - Explainable Confidence Scoring
 - Automated Remediation Plans
 
-# Tech Stack
+## Tech Stack
 
 - React.js
 - JavaScript (JSX)
@@ -39,13 +39,13 @@ IncidentIQ automates incident investigation through a collaborative multi-agent 
 - Microsoft Foundry IQ
 - GitHub Copilot
 
-# 🏆 Hackathon Submission
+## 🏆 Hackathon Submission
 
 Microsoft Agents League Hackathon 2026
 
 Track: Reasoning Agents
 
-# Author
+## Author
 
 Arshiyanoor Shaik
 
