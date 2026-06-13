@@ -1,4 +1,4 @@
-# 🚨 IncidentIQ
+# IncidentIQ
 
 ### Multi-Agent AI Copilot for Intelligent Root Cause Analysis
 
